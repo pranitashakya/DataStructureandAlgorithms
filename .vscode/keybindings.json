@@ -1,0 +1,4 @@
+{
+  "key": "ctrl+alt+p",
+  "command": "workbench.action.tasks.runTask"
+}
